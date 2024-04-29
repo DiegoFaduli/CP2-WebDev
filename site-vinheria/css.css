@@ -1,0 +1,81 @@
+.MenuBar{
+    display: contents;
+    justify-content: flex-end;
+    flex-direction: row;
+    
+ }
+ #Login{
+     background-color: blue;
+     border-radius: 10px;
+     display: flexbox;
+     justify-content: center;
+     align-items: center;
+ }
+ 
+ .BotaoVR {
+     color: white;
+     background-color: #E99292;
+     border: none;
+     height: 86px;
+     width: 440px;
+     font-size: 145%;
+ }
+ 
+ .MaisVendidos {
+     text-align: center;
+ }
+ 
+ .comprar {
+     color: white;
+     background-color: #371C1C;
+     height: 43px;
+     width: 169px;
+    
+ }
+ 
+ .Cupom {
+     color: white;
+     background-color: #371C1C;
+     text-align: center;
+ }
+ 
+ .Avaliacoes {
+ text-align: center;
+ }
+ 
+ 
+ .secao-1 {
+     width: 100%;
+     height: 100%;
+     border: 2px solid red;
+ }
+ 
+ .secao-2 {
+     width: 100%;
+     height: 100%;
+     border: 2px solid blue;
+ }
+ 
+ .secao-3 {
+     width: 100%;
+     height: 100%;
+     border: 2px solid yellow;
+ }
+ 
+ .secao-4 {
+     width: 100%;
+     height: 100%;
+     border: 2px solid green;
+ }
+ 
+ .secao-5 {
+     width: 100%;
+     height: 100%;
+     border: 2px solid black;
+ }
+ 
+ .rodape-6 {
+     width: 100%;
+     height: 100%;
+     border: 2px solid pink;
+ }
